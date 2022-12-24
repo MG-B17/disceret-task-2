@@ -1,0 +1,8 @@
+C:\Users\CRIZMA MEGA STORE\source\repos\disceret task 2\disceret task 2\bin\Debug\disceret task 2.exe.config
+C:\Users\CRIZMA MEGA STORE\source\repos\disceret task 2\disceret task 2\bin\Debug\disceret task 2.exe
+C:\Users\CRIZMA MEGA STORE\source\repos\disceret task 2\disceret task 2\bin\Debug\disceret task 2.pdb
+C:\Users\CRIZMA MEGA STORE\source\repos\disceret task 2\disceret task 2\obj\Debug\disceret task 2.csproj.AssemblyReference.cache
+C:\Users\CRIZMA MEGA STORE\source\repos\disceret task 2\disceret task 2\obj\Debug\disceret task 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\CRIZMA MEGA STORE\source\repos\disceret task 2\disceret task 2\obj\Debug\disceret task 2.csproj.CoreCompileInputs.cache
+C:\Users\CRIZMA MEGA STORE\source\repos\disceret task 2\disceret task 2\obj\Debug\disceret task 2.exe
+C:\Users\CRIZMA MEGA STORE\source\repos\disceret task 2\disceret task 2\obj\Debug\disceret task 2.pdb
